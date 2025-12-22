@@ -1,0 +1,13 @@
+# virtual environment
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# models (too large for GitHub)
+*.h5
+*.keras
+
+# environment variables
+.env
